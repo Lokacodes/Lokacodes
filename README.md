@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lokacodes
-- 📫 email me at talloka21.mhs@akb.ac.id
+- 📫 email me at lokacodes@gmail.com
 
 <!---
 Lokacodes/Lokacodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
